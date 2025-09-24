@@ -18,8 +18,19 @@ Features of this project :
 
 Technologies Used :
 
-Programming Language: Python 3.11
-Frameworks: Flask, Bootstrap 5
-Libraries: scikit-learn, NumPy, Pandas, Pickle
-Frontend: HTML, CSS, JavaScript
-Tools: Git/GitHub for version control
+1. Programming Language: Python 3.11
+2. Frameworks: Flask, Bootstrap 
+3. Libraries: scikit-learn, NumPy, Pandas, Pickle
+4. Frontend: HTML, CSS, JavaScript
+5. Tools: Git/GitHub for version control
+
+Usage :
+
+1. Enter soil nutrient values (N, P, K) along with Temperature, Humidity, pH, and Rainfall.
+2. Click on “Get Recommendation”.
+3. The system will display the most suitable crop to cultivate.
+
+Learning Outcomes :
+
+Through the development of the Crop Recommendation System, I gained hands-on experience in the complete lifecycle of machine learning projects, including data preprocessing, feature scaling, model training, evaluation, and deployment. I learned how to integrate ML models with a Flask web application, handling user inputs, making real-time predictions, and displaying results through a responsive interface. This project strengthened my skills in both frontend design using Bootstrap and backend logic in Flask, ensuring seamless interaction between the user interface and the predictive model. Additionally, I developed a deeper understanding of the importance of data preprocessing and scaling for accurate model performance, as well as enhanced my problem-solving and analytical abilities by translating a real-world agricultural problem into a data-driven solution. Finally, I practiced effective project management, version control with Git/GitHub, all of which are essential skills for delivering well-structured and maintainable software projects.
+
